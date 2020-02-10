@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem "pry"
+gem "pry-doc"
+
 gem 'rails', '5.0.7.1'
 gem 'coffee-rails'
 gem 'jquery-rails'
